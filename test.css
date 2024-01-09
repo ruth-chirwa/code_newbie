@@ -7,9 +7,7 @@ header{
     
 }
 
-nav{
-    
-}
+
 .topnav{
     overflow: hidden;
     background-color: rgb(209, 21, 209);
@@ -46,6 +44,11 @@ img{
     text-decoration: underline solid rgb(209, 21, 209);
 }
 
+button{
+    border-radius: 10%;
+    background-color: rgb(209, 21, 209);
+    color: black;
+}
 footer{
     padding-bottom: 200px;
 }
