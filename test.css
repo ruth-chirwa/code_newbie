@@ -6,19 +6,34 @@ header{
     text-align: center;
     
 }
-a{
-    text-decoration: none;
-    color: black;
-    border-bottom:2px solid rgb(209, 21, 209);
-    padding-bottom: 5px;
+
+nav{
+    
 }
-a:hover{
-   
+.topnav{
+    overflow: hidden;
+    background-color: rgb(209, 21, 209);
+    
+}
+
+.topnav a{
+    float: left;
+    color: azure;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    align-items: center;
+
+}
+
+.topnav a:hover{
+   background-color: black;
     cursor: pointer;
     
 }
 img{
-    justify-content: left;
+    object-fit: cover;
+    
 }
 
 .about{
